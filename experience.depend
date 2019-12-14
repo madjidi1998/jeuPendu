@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1576259097 source:c:\users\sony\desktop\nouveau rachad\experience\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+
+1576025257 c:\users\sony\desktop\nouveau rachad\experience\dico.h
+
+1576025275 source:c:\users\sony\desktop\nouveau rachad\experience\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1576270109 source:c:\users\sony\desktop\jeupendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+
+1576025257 c:\users\sony\desktop\jeupendu\dico.h
+
+1576025275 source:c:\users\sony\desktop\jeupendu\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
